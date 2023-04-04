@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(../imagens/solo.bmp);
+    background-image: url(../imagens/solo.png);
     background-size: contain;
 }
 .game-board{
